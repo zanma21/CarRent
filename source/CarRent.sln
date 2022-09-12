@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRent", "src\CarRent.csproj", "{6114801A-2037-44D9-A613-0E3503640A6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRent.Tests", "tests\CarRent.Tests.csproj", "{6800A36C-FCFD-4E7E-8D1C-0BA4D7E96DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6114801A-2037-44D9-A613-0E3503640A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6114801A-2037-44D9-A613-0E3503640A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6114801A-2037-44D9-A613-0E3503640A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6114801A-2037-44D9-A613-0E3503640A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6800A36C-FCFD-4E7E-8D1C-0BA4D7E96DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6800A36C-FCFD-4E7E-8D1C-0BA4D7E96DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6800A36C-FCFD-4E7E-8D1C-0BA4D7E96DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6800A36C-FCFD-4E7E-8D1C-0BA4D7E96DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
